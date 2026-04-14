@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: dnn-conversao-distancia
-        image: 393736331262.dkr.ecr.us-east-1.amazonaws.com/dnn-conversao-distancia:v1.0.0
+        image: 393736331262.dkr.ecr.us-east-1.amazonaws.com/dnn-conversao-distancia:c0fbc9957a0ef31b775a3dd19d9c9a7b1549e6d4
         resources:
           limits:
             memory: "128Mi"
